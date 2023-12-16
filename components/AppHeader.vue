@@ -8,7 +8,7 @@
             </div>
             <div>
                 <ul class="flex gap-2 flex-wrap text-gray-700 justify-center sm:justify-start">
-                    <li><NuxtLink to="/" class="px-4 py-2 rounded-md font-bold hover:text-blue-700">Login</NuxtLink></li>
+                    <li><NuxtLink to="/login/" class="px-4 py-2 rounded-md font-bold hover:text-blue-700">Login</NuxtLink></li>
                     <li><NuxtLink to="/" class="px-4 py-2 rounded-md font-bold hover:text-blue-700">Register</NuxtLink></li>
                     <li><NuxtLink to="/products/" class="px-4 py-2 rounded-md font-bold hover:text-blue-700">Products</NuxtLink></li>
                     <li><NuxtLink to="/" class="px-4 py-2 rounded-md font-bold hover:text-blue-700">Help</NuxtLink></li>

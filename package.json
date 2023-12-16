@@ -10,12 +10,17 @@
     "postinstall": "nuxt prepare"
   },
   "devDependencies": {
+    "@bg-dev/nuxt-naiveui": "^1.6.1",
     "@nuxt/devtools": "latest",
+    "@nuxtjs/apollo": "^5.0.0-alpha.11",
     "@nuxtjs/google-fonts": "^3.0.0-1",
     "@nuxtjs/tailwindcss": "^6.10.1",
     "nuxt": "^3.8.2",
     "nuxt-icon": "^0.6.6",
     "vue": "^3.3.8",
     "vue-router": "^4.2.5"
+  },
+  "dependencies": {
+    "@vue/apollo-composable": "^4.0.0-beta.12"
   }
 }
